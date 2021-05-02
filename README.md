@@ -22,7 +22,8 @@ I'm a third year student in CS Engineering. I'm passionate about Competitive Pro
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhani6)](https://github.com/suhani6/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suhani6&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhani6&theme=tokyonight)
 <!---
 suhani6/suhani6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
